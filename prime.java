@@ -7,11 +7,11 @@ class prime
 		int n = sc.nextInt();
 		if(n%2!=0)
 		{
-			System.out.println("yes");
+			System.out.println("no");
 		}
 		else
 		{
-			System.out.println("no");
+			System.out.println("yes");
 		}
 	}
 }
